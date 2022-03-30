@@ -1,2 +1,4 @@
-# flowery-structures-croptopia
-Support for croptopia mod
+# Flowery Structures: Croptopia
+
+
+## Support for https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric mod
