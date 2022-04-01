@@ -11,7 +11,7 @@
     "homepage": "https://github.com/Flowery-Structures/",
     "sources": "https://github.com/Flowery-Structures/flowery-structures-croptopia"
   },
-  "license": "CC0-1.0",
+  "license": "LGPL-2.1",
   "environment": "*",
   "entrypoints": {},
   "mixins": [],
