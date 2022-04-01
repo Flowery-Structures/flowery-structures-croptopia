@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "flowerycrop",
+  "version": "${version}",
+  "name": "Flowery Structure: Croptopia",
+  "description": "Support for Croptopia mod for FLowery Structures",
+  "authors": [
+    "JustFoxx"
+  ],
+  "contact": {
+    "homepage": "https://github.com/Flowery-Structures/",
+    "sources": "https://github.com/Flowery-Structures/flowery-structures-croptopia"
+  },
+  "license": "CC0-1.0",
+  "environment": "*",
+  "entrypoints": {},
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "minecraft": "1.18.2",
+    "java": ">=17",
+    "flowery": ">=[4]"
+  },
+  "suggests": {
+    "disable_custom_worlds_advice": "*"
+  }
+}
