@@ -14,7 +14,7 @@
 </p>
 
 <a href="https://bisecthosting.com/fox" align="center">
-    <img src="bisect.png">
+    <img src="https://github.com/Flowery-Structures/flowery-structures/raw/main/bisect.png">
 </a></p>
 
 <h2 align="center">Description</h2>
