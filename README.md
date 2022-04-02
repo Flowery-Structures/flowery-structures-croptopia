@@ -22,6 +22,6 @@ Module for Croptopia support for Flowery Structures mod
 
 <h2 align="center">Links</h2>
 
-- [Fabric](https://github.com/JustFoxx/flowery-structures-croptopia/tree/fabric)
-- [Forge](https://github.com/JustFoxx/flowery-structures-croptopia/tree/forge)
-- [Datapack](https://github.com/JustFoxx/flowery-structures-croptopia/tree/datapack)
+- [Fabric](https://github.com/Flowery-Structures/flowery-structures-croptopia/tree/fabric)
+- [Forge](https://github.com/Flowery-Structures/flowery-structures-croptopia/tree/forge)
+- [Datapack](https://github.com/Flowery-Structures/flowery-structures-croptopia/tree/datapack)
