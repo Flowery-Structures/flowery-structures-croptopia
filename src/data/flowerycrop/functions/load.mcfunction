@@ -1,1 +1,1 @@
-tellraw @a ["",{"text":"[Flowery Structure Croptopia module]","color":"#C800D7"},{"text":" Loaded!","bold":true}]
+tellraw @a ["",{"text":"[Flowery Structure]","color":"#C800D7"},{"text":" Croptopia module loaded!","bold":true}]
